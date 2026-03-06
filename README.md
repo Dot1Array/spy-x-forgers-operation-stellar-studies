@@ -5,7 +5,7 @@ Website used to convert text to ASCII Art: https://www.asciiart.eu/text-to-ascii
 *****************************************************************************************************************************
 NOTE: The text below can also be viewed in-game by selecting “Instructions” from the main menu.
 *****************************************************************************************************************************
-GAMEPLAY PREMISE
+🎮 GAMEPLAY PREMISE
 
 At the beginning of the game, Anya is given an assignment by her adviser Mr. Henderson, who
 informs Anya that she has an assignment that requires her to create a photo collage of memories
