@@ -1,5 +1,9 @@
+Author: https://github.com/Dot1Array
+*****************************************************************************************************************************
+Acknowledgements:
+Website used to convert text to ASCII Art: https://www.asciiart.eu/text-to-ascii-art#google_vignette
+*****************************************************************************************************************************
 NOTE: The text below can also be viewed in-game by selecting “Instructions” from the main menu.
-
 *****************************************************************************************************************************
 GAMEPLAY PREMISE
 
